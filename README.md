@@ -1,4 +1,4 @@
-USD recipes.
+# USD recipes.
 
 The repositories contain README snippets of cource code for their corresponding USD libraries. 
 The goal is to give people a "leg up" by showing them differents ways on how we solve common problems using Pixars USD.

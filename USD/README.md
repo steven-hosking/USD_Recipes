@@ -39,8 +39,8 @@ Our shotRanges are currently a TypedSchema and are composed just below the shot'
 
 It seems like you can't do this. The API provided to Python for kinds are an introspect only.
 
-from pxr import Kind
-print Kind.Registry.GetAllKinds()
+    from pxr import Kind
+    print Kind.Registry.GetAllKinds()
 
 
 
